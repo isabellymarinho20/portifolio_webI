@@ -15,6 +15,13 @@ const projetos = [
     { titulo: "Controle do almoxarifado de eletrônica",tech: "HTML | CSS | JS",       desc: "Aplicação web para controlar o almoxarifado de eletronica.",             link: "https://github.com/isabellymarinho20/Eletronics-Warehouse-Inventory-System-.git", img: "img/ele.jpg" },
     { titulo: "API para FastFood",                     tech: "Java",                  desc: "API em java para pedidos.",                                              link: "https://github.com/isabellymarinho20/garagem.git",                           img: "img/fas.png"     },
     { titulo: "IA para identificação de fogo e fumaça",tech: "Python | YOLO",         desc: "IA para identificar fogo e fumaça.",                                     link: "#",                                                                          img: "img/fogo.jpg"    },
+    {
+    "titulo": "Plataforma de conteudo técnico de normas aeronauticas",
+    "tech": "JavaScript | Node.js | TypeScript | React",
+    "desc": "Centralização de normas aeronauticas",
+    "link": "https://github.com/FATCK06/ProjectAPI_SecondSemester",
+    "img": "img/akaer.png"
+  }
 ];
 
 const certificados = [
@@ -31,7 +38,7 @@ const formacoes = [
 ];
 
 const experiencias = [
-    { empresa: "Petrobras",   periodo: "2024 — Atualmente", cargo: "Jovem Aprendiz",                  desc: "Curso de desenvolvimento de sistemas" },
+    { empresa: "Petrobras",   periodo: "2024 — 2026", cargo: "Jovem Aprendiz",                  desc: "Curso de desenvolvimento de sistemas" },
     { empresa: "SanjaWorks",  periodo: "2024 — 2025",       cargo: "Estágio Técnico de Informática",  desc: "Automações com N8N e IA"              },
 ];
 
