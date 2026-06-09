@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<title>Nova Formação</title>
+<link rel="stylesheet" href="./novoProjeto.css">
+</head>
+
+<body>
+
+<section class="admin-section">
+
+<div class="admin-container">
+
+<h2 class="admin-title">Adicionar Formação</h2>
+
+<form id="formFormacao" class="admin-form">
+
+<input type="text" id="anoFormacao" placeholder="Ano" required>
+
+<input type="text" id="cursoFormacao" placeholder="Curso" required>
+
+<input type="text" id="instFormacao" placeholder="Instituição" required>
+
+<button class="admin-btn">Adicionar Formação</button>
+
+</form>
+
+
+<h3 style="margin-top:20px;">Formações cadastradas</h3>
+
+<div class="formacoes-lista"></div>
+
+<button onclick="salvarEdicaoFormacao()" class="admin-btn" style="margin-top:10px;">
+Atualizar Formação
+</button>
+
+</div>
+
+</section>
+
+<script src="script.js"></script>
+
+</body>
+</html>
