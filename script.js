@@ -33,7 +33,7 @@ const certificados = [
 
 const formacoes = [
     { ano: "2025 — Cursando",  curso: "Desenvolvimento de Software Multiplataforma", instituicao: "FATEC SJC" },
-    { ano: "2024 — Cursando",  curso: "Técnico em Desenvolvimento de Sistemas",      instituicao: "SENAI SJC" },
+    { ano: "2024 — 2026",  curso: "Técnico em Desenvolvimento de Sistemas",      instituicao: "SENAI SJC" },
     { ano: "2022 — 2024",      curso: "Ensino Médio Técnico em Informática",         instituicao: "UNIVAP"    },
 ];
 
